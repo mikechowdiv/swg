@@ -1,0 +1,8 @@
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\bin\Debug\BetterGuessingGame.exe.config
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\bin\Debug\BetterGuessingGame.exe
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\bin\Debug\BetterGuessingGame.pdb
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\bin\Debug\GuessingGame.BLL.dll
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\bin\Debug\GuessingGame.BLL.pdb
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\obj\Debug\GuessingGame.UI.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\obj\Debug\BetterGuessingGame.exe
+E:\workspace\SG-works\assignments\BetterGuessingGame\BetterGuessingGame\obj\Debug\BetterGuessingGame.pdb

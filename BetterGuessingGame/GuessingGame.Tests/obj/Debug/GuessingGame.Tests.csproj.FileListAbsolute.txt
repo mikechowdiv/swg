@@ -1,0 +1,9 @@
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.dll
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.Tests.pdb
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.dll
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\nunit.framework.dll
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\GuessingGame.BLL.pdb
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\bin\Debug\nunit.framework.xml
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.dll
+E:\workspace\SG-works\assignments\BetterGuessingGame\GuessingGame.Tests\obj\Debug\GuessingGame.Tests.pdb

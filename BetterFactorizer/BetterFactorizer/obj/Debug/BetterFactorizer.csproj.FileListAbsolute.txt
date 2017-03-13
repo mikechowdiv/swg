@@ -1,0 +1,8 @@
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\bin\Debug\BetterFactorizer.exe.config
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\bin\Debug\BetterFactorizer.exe
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\bin\Debug\BetterFactorizer.pdb
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\bin\Debug\Factorizer.BLL.dll
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\bin\Debug\Factorizer.BLL.pdb
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\obj\Debug\BetterFactorizer.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\obj\Debug\BetterFactorizer.exe
+E:\workspace\SG-works\assignments\BetterFactorizer\BetterFactorizer\obj\Debug\BetterFactorizer.pdb
