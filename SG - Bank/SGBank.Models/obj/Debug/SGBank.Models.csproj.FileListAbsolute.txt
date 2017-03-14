@@ -1,0 +1,10 @@
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.dll
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.dll
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.pdb
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.dll
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.dll
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Models\obj\Debug\SGBank.Models.pdb

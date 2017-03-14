@@ -1,0 +1,14 @@
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\bin\Debug\SGBank.Data.dll
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\bin\Debug\SGBank.Models.dll
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.dll
+E:\workspace\SG-works\week4\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.pdb
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\bin\Debug\SGBank.Data.dll
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\bin\Debug\SGBank.Models.dll
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.dll
+E:\workspace\SG\mikechow\labs\SG - Bank\SGBank.Data\obj\Debug\SGBank.Data.pdb
