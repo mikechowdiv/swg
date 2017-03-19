@@ -1,0 +1,132 @@
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\csc.exe
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\vbc.exe
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\VBCSCompiler.exe
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Exercises.dll.config
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Exercises.pdb
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Helpers.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Mvc.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.Deployment.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.Deployment.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Webpages.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Helpers.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\bin\System.Web.Mvc.xml
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\obj\Debug\MVC_SIS.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\obj\Debug\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\2\MVC_SIS\obj\Debug\Exercises.pdb
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\csc.exe
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\vbc.exe
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\VBCSCompiler.exe
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Exercises.dll.config
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Exercises.pdb
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Helpers.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Mvc.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.Deployment.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.Deployment.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Webpages.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Helpers.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\bin\System.Web.Mvc.xml
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\obj\Debug\MVC_SIS.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\obj\Debug\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\3\MVC_SIS\obj\Debug\Exercises.pdb
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\csc.exe
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\vbc.exe
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\VBCSCompiler.exe
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Exercises.dll.config
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Exercises.pdb
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Helpers.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Mvc.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.Deployment.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.Razor.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.Deployment.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Webpages.Razor.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Helpers.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\bin\System.Web.Mvc.xml
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\obj\Debug\MVC_SIS.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\obj\Debug\Exercises.dll
+E:\workspace\SG-works\week6\Student Information System\4\MVC_SIS\obj\Debug\Exercises.pdb
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\csc.exe
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\System.Collections.Immutable.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\System.Reflection.Metadata.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\vbc.exe
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\VBCSCompiler.exe
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\roslyn\VBCSCompiler.exe.config
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Exercises.dll.config
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Exercises.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Exercises.pdb
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Microsoft.Web.Infrastructure.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Helpers.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Mvc.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Razor.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.Deployment.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.Razor.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Razor.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.Deployment.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Webpages.Razor.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Helpers.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\bin\System.Web.Mvc.xml
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\obj\Debug\MVC_SIS.csprojResolveAssemblyReference.cache
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\obj\Debug\Exercises.dll
+E:\workspace\SG\mikechow\labs\SIS\MVC_SIS\obj\Debug\Exercises.pdb
