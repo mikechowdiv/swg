@@ -49,61 +49,63 @@ namespace CarDealer1.Controllers
             return View(model);
         }
 
-        //[System.Web.Http.Authorize]
-        //[System.Web.Http.HttpPost]
-        //public ActionResult Add(ListingAddViewModel model)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        var repo = ListingRepositoryFactory.GetRepository();
+        [System.Web.Http.Authorize]
+        [System.Web.Mvc.HttpPost]
+        public ActionResult Add(ListingAddViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var repo = ListingRepositoryFactory.GetRepository();
 
-        //        try
-        //        {
-        //            model.Listing.UserId = AuthorizeUtilities.GetUserId(this);
+                try
+                {
+                    model.Listing.UserId = AuthorizeUtilities.GetUserId(this);
 
-        //            if (model.ImageUpload != null && model.ImageUpload.ContentLength > 0)
-        //            {
-        //                var savepath = Server.MapPath("~/Images");
+                    if (model.ImageUpload != null && model.ImageUpload.ContentLength > 0)
+                    {
+                        var savepath = Server.MapPath("~/Images");
 
-        //                string fileName = Path.GetFileNameWithoutExtension(model.ImageUpload.FileName);
-        //                string extension = Path.GetExtension(model.ImageUpload.FileName);
+                        string fileName = Path.GetFileNameWithoutExtension(model.ImageUpload.FileName);
+                        string extension = Path.GetExtension(model.ImageUpload.FileName);
 
-        //                var filePath = Path.Combine(savepath, fileName + extension);
+                        var filePath = Path.Combine(savepath, fileName + extension);
 
-        //                int counter = 1;
-        //                while (System.IO.File.Exists(filePath))
-        //                {
-        //                    filePath = Path.Combine(savepath, fileName + counter.ToString() + extension);
-        //                    counter++;
-        //                }
+                        int counter = 1;
+                        while (System.IO.File.Exists(filePath))
+                        {
+                            filePath = Path.Combine(savepath, fileName + counter.ToString() + extension);
+                            counter++;
+                        }
 
-        //                model.ImageUpload.SaveAs(filePath);
-        //                model.Listing.ImageFileName = Path.GetFileName(filePath);
-        //            }
+                        model.ImageUpload.SaveAs(filePath);
+                        model.Listing.ImageFileName = Path.GetFileName(filePath);
+                    }
 
-        //            repo.Insert(model.Listing);
+                    repo.Insert(model.Listing);
 
-        //            return RedirectToAction("Edit", new {id = model.Listing.ListingId});
-        //        }
-        //        catch (Exception ex)
-        //        {
-        //            throw ex;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        var statesRepo = StatesRepositoryFactory.GetRepository();
-        //        var makesRepo = MakesRespositoryFactory.GetRepository();
+                   // return RedirectToAction("Index");
+                    return RedirectToAction("Edit", new { id = model.Listing.ListingId });
+                }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
+            }
+            else
+            {
+                var statesRepo = StatesRepositoryFactory.GetRepository();
+                var makesRepo = MakesRespositoryFactory.GetRepository();
 
-        //        model.States = new SelectList(statesRepo.GetAll(), "StateId", "StateId");
-        //        model.MakesTypes = new SelectList(makesRepo.GetAll(), "MakesId", "MakesName");
+                model.States = new SelectList(statesRepo.GetAll(), "StateId", "StateId");
+                model.MakesTypes = new SelectList(makesRepo.GetAll(), "MakesId", "MakesName");
 
-        //        return View(model);
-        //    }
+                return View(model);
+            }
 
-        //}
+        }
 
         [System.Web.Http.Authorize]
+        [HttpGet]
         public ActionResult Edit(int id)
         {
             var model = new ListingEditViewModel();
@@ -118,7 +120,7 @@ namespace CarDealer1.Controllers
 
             if (model.Listing.UserId != AuthorizeUtilities.GetUserId(this))
             {
-                throw new Exception("Attempt to edit a listing you do not own! Naughty!");
+                throw new Exception("errors");
             }
 
             return View(model);

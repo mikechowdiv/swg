@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Model.Queries.ListingItem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>My Account</h2>
+    </div>
+</div>
+<div class="row">
+    @Html.Partial("_SideNavPartial")
+    <div class="col-xs-10">
+        <h3>My Listings</h3>
+        @Html.ActionLink("Add a new listing", "Add", "Listings")
+        @if (Model.Any())
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Year
+                        </th>
+                        <th>
+                            Location
+                        </th>
+                        <th>
+                            Rate
+                        </th>
+                        <th>
+                            Size
+                        </th>
+                        <th>
+                            Condition
+                        </th>
+                        <th>
+                            Transmssion
+                        </th>
+                        <th>
+                            Make
+                        </th>
+                        <th>
+
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var listing in Model)
+                    {
+                        <tr>
+                            <td>@listing.Year</td>
+                            <td>@($"{listing.City}, {listing.StateId}")</td>
+                            <td>@listing.Rate.ToString("c")</td>
+                            <td>@listing.Mileage miles</td>
+                            <td>
+                                @if (listing.isNew)
+                                {
+                                    <text>Yes</text>
+                                }
+                                else
+                                {
+                                    <text>No</text>
+                                }
+                            </td>
+                            <td>
+                                @if (listing.isManual)
+                                {
+                                    <text>Yes</text>
+                                }
+                                else
+                                {
+                                    <text>No</text>
+                                }
+                            </td>
+                            <td>@listing.MakesName</td>
+                            <td>@Html.ActionLink("edit", "Edit", "Listings", new { id = listing.ListingId }, null)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>You do not have any listings.</p>
+        }
+    </div>
+</div>
+

@@ -211,6 +211,7 @@
     <Compile Include="Controllers\ListingsAPIController.cs" />
     <Compile Include="Controllers\ListingsController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\MyAccountController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -251,6 +252,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\app\validator-settings.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
@@ -307,6 +309,12 @@
     <Content Include="Views\Listings\Details.cshtml" />
     <Content Include="Views\Listings\Index.cshtml" />
     <Content Include="Views\Listings\Add.cshtml" />
+    <Content Include="Views\Listings\Edit.cshtml" />
+    <Content Include="Views\MyAccount\Index.cshtml" />
+    <Content Include="Views\MyAccount\_SideNavPartial.cshtml" />
+    <Content Include="Views\MyAccount\Favorites.cshtml" />
+    <Content Include="Views\MyAccount\Contacts.cshtml" />
+    <Content Include="Views\MyAccount\UpdateAccount.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

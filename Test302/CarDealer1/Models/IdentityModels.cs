@@ -16,7 +16,7 @@ namespace CarDealer1.Models
             // Add custom user claims here
             return userIdentity;
         }
-        public string StateId { get; set; }
+        //public string StateId { get; set; }
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
