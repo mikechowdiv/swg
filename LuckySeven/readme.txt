@@ -1,0 +1,1 @@
+A Lucky Seven Game using plain Javascript for the Software Guild pre-work.

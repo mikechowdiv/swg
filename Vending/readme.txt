@@ -1,0 +1,1 @@
+The purpose of this lab is to show your proficiency in using HTML, CSS, JavaScript, and jQuery to create a browser-based user interface for an existing web service. You will show your ability to use these skills by building a page that allows a user to interact with a virtual Vending Machine via the supplied Vending Machine REST API.
