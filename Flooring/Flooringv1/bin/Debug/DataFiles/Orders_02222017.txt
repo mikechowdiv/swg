@@ -1,0 +1,2 @@
+Order Number, CustomerName, State, Tax Rate, ProductType, Area, Cost per sq. foot, labor cost per sq. foot, material cost, labor cost, tax, total
+2,kki,OH,6.25,Wood,120,5.15,4.75,618.00,570.00,74.2500,1262.2500

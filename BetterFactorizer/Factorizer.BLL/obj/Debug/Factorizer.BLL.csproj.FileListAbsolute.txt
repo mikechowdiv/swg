@@ -3,3 +3,8 @@ E:\workspace\SG-works\assignments\BetterFactorizer\Factorizer.BLL\bin\Debug\Fact
 E:\workspace\SG-works\assignments\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.csprojResolveAssemblyReference.cache
 E:\workspace\SG-works\assignments\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.dll
 E:\workspace\SG-works\assignments\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.pdb
+E:\workspace\gitHub\BetterFactorizer\Factorizer.BLL\bin\Debug\Factorizer.BLL.dll
+E:\workspace\gitHub\BetterFactorizer\Factorizer.BLL\bin\Debug\Factorizer.BLL.pdb
+E:\workspace\gitHub\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.csprojResolveAssemblyReference.cache
+E:\workspace\gitHub\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.dll
+E:\workspace\gitHub\BetterFactorizer\Factorizer.BLL\obj\Debug\Factorizer.BLL.pdb

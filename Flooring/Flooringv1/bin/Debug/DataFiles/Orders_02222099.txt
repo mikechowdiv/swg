@@ -1,0 +1,3 @@
+Order Number, CustomerName, State, Tax Rate, ProductType, Area, Cost per sq. foot, labor cost per sq. foot, material cost, labor cost, tax, total
+1,
+Please enter your name: ,MI,5.75,Wood,10,5.15,4.75,51.50,47.50,5.6925,104.6925
