@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperRockSissor", "PaperRockSissor\PaperRockSissor.csproj", "{72B0E070-C3B3-4AEC-B054-63BCD9CA759A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRS.BLL", "PRS.BLL\PRS.BLL.csproj", "{D3546D6A-14A4-4064-8475-574FF151481F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRS.Tests", "PRS.Tests\PRS.Tests.csproj", "{AAB6D628-8356-48F9-8B8C-5351DCC58CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B0E070-C3B3-4AEC-B054-63BCD9CA759A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B0E070-C3B3-4AEC-B054-63BCD9CA759A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B0E070-C3B3-4AEC-B054-63BCD9CA759A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B0E070-C3B3-4AEC-B054-63BCD9CA759A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3546D6A-14A4-4064-8475-574FF151481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3546D6A-14A4-4064-8475-574FF151481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3546D6A-14A4-4064-8475-574FF151481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3546D6A-14A4-4064-8475-574FF151481F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB6D628-8356-48F9-8B8C-5351DCC58CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6D628-8356-48F9-8B8C-5351DCC58CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6D628-8356-48F9-8B8C-5351DCC58CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6D628-8356-48F9-8B8C-5351DCC58CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

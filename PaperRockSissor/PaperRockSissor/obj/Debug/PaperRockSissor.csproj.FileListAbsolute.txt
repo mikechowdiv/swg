@@ -1,0 +1,8 @@
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\bin\Debug\PaperRockSissor.exe.config
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\bin\Debug\PaperRockSissor.exe
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\bin\Debug\PaperRockSissor.pdb
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\bin\Debug\PRS.BLL.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\bin\Debug\PRS.BLL.pdb
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\obj\Debug\PaperRockSissor.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\obj\Debug\PaperRockSissor.exe
+E:\workspace\SG-works\week4\PaperRockSissor\PaperRockSissor\obj\Debug\PaperRockSissor.pdb

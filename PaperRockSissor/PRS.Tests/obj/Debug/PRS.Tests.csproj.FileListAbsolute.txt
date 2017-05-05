@@ -1,0 +1,9 @@
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\PRS.Tests.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\PRS.Tests.pdb
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\nunit.framework.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\PRS.BLL.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\PRS.BLL.pdb
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\bin\Debug\nunit.framework.xml
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\obj\Debug\PRS.Tests.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\obj\Debug\PRS.Tests.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.Tests\obj\Debug\PRS.Tests.pdb

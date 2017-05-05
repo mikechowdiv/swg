@@ -1,0 +1,5 @@
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.BLL\bin\Debug\PRS.BLL.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.BLL\bin\Debug\PRS.BLL.pdb
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.BLL\obj\Debug\PRS.BLL.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.BLL\obj\Debug\PRS.BLL.dll
+E:\workspace\SG-works\week4\PaperRockSissor\PRS.BLL\obj\Debug\PRS.BLL.pdb
