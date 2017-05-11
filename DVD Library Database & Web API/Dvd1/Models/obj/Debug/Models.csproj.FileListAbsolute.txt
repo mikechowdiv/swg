@@ -1,0 +1,10 @@
+E:\workspace\SG-works\week9\DVDLibrary\v6\Dvd1\Models\bin\Debug\Models.dll
+E:\workspace\SG-works\week9\DVDLibrary\v6\Dvd1\Models\bin\Debug\Models.pdb
+E:\workspace\SG-works\week9\DVDLibrary\v6\Dvd1\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\week9\DVDLibrary\v6\Dvd1\Models\obj\Debug\Models.dll
+E:\workspace\SG-works\week9\DVDLibrary\v6\Dvd1\Models\obj\Debug\Models.pdb
+E:\workspace\SG\mikechow\labs\DVDLibrary6\Dvd1\Models\bin\Debug\Models.dll
+E:\workspace\SG\mikechow\labs\DVDLibrary6\Dvd1\Models\bin\Debug\Models.pdb
+E:\workspace\SG\mikechow\labs\DVDLibrary6\Dvd1\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\workspace\SG\mikechow\labs\DVDLibrary6\Dvd1\Models\obj\Debug\Models.dll
+E:\workspace\SG\mikechow\labs\DVDLibrary6\Dvd1\Models\obj\Debug\Models.pdb

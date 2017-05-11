@@ -10,3 +10,15 @@ E:\workspace\CSharp\Projects\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\nu
 E:\workspace\CSharp\Projects\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.csprojResolveAssemblyReference.cache
 E:\workspace\CSharp\Projects\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
 E:\workspace\CSharp\Projects\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.pdb
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\Dapper.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\nunit.framework.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.pdb
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\Dapper.xml
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\bin\Debug\nunit.framework.xml
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.csprojResolveAssemblyReference.cache
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
+E:\workspace\gitHub\DVDLibraryProjectFiles\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb
